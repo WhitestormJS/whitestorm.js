@@ -104,7 +104,7 @@
     "path": "^0.12.7",
     "postprocessing": "^4.5.0",
     "present": "^1.0.0",
-    "pug": "^2.0.3",
+    "pug": "^3.0.1",
     "rollup": "^0.58.2",
     "rollup-plugin-babel": "^4.0.0-beta.4",
     "rollup-plugin-commonjs": "^9.1.3",
